@@ -1,0 +1,30 @@
+{
+  "project_name": "Google Antigravity UI App",
+  "last_updated": "2026-03-01T17:48:52-08:00",
+  "core_directives": {
+    "never_use": [
+      "Placeholders (unless absolutely needed)",
+      "Mock Data (unless absolutely needed)",
+      "Simulated features, functions, outcomes, or outputs (unless absolutely needed)"
+    ],
+    "always_do": [
+      "Realtime Working Applications",
+      "Live, Fast, Fully User-ready",
+      "Production Ready from the beginning until deployment and hosting",
+      "Front-end Heavy PWA ALWAYS",
+      "If PWA not possible: Front-end UI + API Connectors + Backend Connector & Contract + Full Logic Backend + Local/Free Cloud Hosting (Github Pages/Cloudflare Pages)"
+    ]
+  },
+  "commands": {
+    "Produce Backup": "Create a full file structure with all files and code + Instructions + Github Style or Production Style File system + Fully Functional Build-ready PWA in a .zip folder/file for download."
+  },
+  "current_context": {
+    "ui_style": "Google Antigravity (light, airy, glass-morphism, fluid animations)",
+    "features_implemented": [
+      "Split/Focus layout modes",
+      "Artifact Cards with iframe rendering",
+      "Skeleton UI and Details Overlay",
+      "Favorite and Info actions"
+    ]
+  }
+}
